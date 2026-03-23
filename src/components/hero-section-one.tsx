@@ -43,7 +43,7 @@ export default function HeroSection() {
                                             size="lg"
                                             variant="outline"
                                             className="pl-5">
-                                            <a href="/demo">
+                                            <a href="https://youtu.be/L3afD7hKCS0">
                                                 <CirclePlay className="fill-primary/25 stroke-primary" />
                                                 <span className="text-nowrap">Watch demo</span>
                                             </a>
