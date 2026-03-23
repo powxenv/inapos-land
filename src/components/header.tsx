@@ -80,7 +80,7 @@ export const HeroHeader = () => {
                                     variant="ghost"
                                     size="sm"
                                     className={cn(isScrolled && 'lg:hidden')}>
-                                    <a href="https://inapos-app.netlify.app/auth/sign-in">
+                                    <a href="#/auth/sign-in">
                                         <span>Login</span>
                                     </a>
                                 </Button>
@@ -88,7 +88,7 @@ export const HeroHeader = () => {
                                     asChild
                                     size="sm"
                                     className={cn(isScrolled && 'lg:hidden')}>
-                                    <a href="https://inapos-app.netlify.app/auth/sign-up">
+                                    <a href="#/auth/sign-up">
                                         <span>Sign Up</span>
                                     </a>
                                 </Button>
@@ -96,7 +96,7 @@ export const HeroHeader = () => {
                                     asChild
                                     size="sm"
                                     className={cn(isScrolled ? 'lg:inline-flex' : 'hidden')}>
-                                    <a href="https://inapos-app.netlify.app/auth/sign-up">
+                                    <a href="#/auth/sign-up">
                                         <span>Get Started</span>
                                     </a>
                                 </Button>
