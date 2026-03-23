@@ -32,7 +32,7 @@ export default function HeroSection() {
                                             asChild
                                             size="lg"
                                             className="pr-4.5">
-                                            <a href="#/auth/sign-up">
+                                            <a href="https://inapos-app.netlify.app/#/auth/sign-up">
                                                 <span className="text-nowrap">Get Started</span>
                                                 <ChevronRight className="opacity-50" />
                                             </a>
